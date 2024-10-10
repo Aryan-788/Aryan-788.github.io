@@ -1,6 +1,5 @@
 # 🌟 Aryan Narayan - Software Engineer
-
-![Profile](https://via.placeholder.com/150)  
+ 
 Motihari, Bihar, India  
 📞 +91 993476247 | 📧 [aryanshrivastava788@gmail.com](mailto:aryanshrivastava788@gmail.com)  
 [LinkedIn](https://linkedin.com/in/aryan-narayan-06805a217)
@@ -57,4 +56,4 @@ I'm Aryan Narayan, currently pursuing a **Bachelor of Technology in Computer Sci
 ## 🎯 Interests and Hobbies
 - Passionate about **AI/ML** and **Generative AI** technologies.
 - Enjoys **contributing to open-source** projects and learning about the latest in tech innovations.
-- Loves **cricket** and is an avid follower of the sport!
+- Loves **Badminton**!
